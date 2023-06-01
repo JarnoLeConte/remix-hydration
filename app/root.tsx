@@ -21,6 +21,7 @@ export default function App() {
         <meta name="viewport" content="width=device-width,initial-scale=1" />
         <Meta />
         <Links />
+        <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" />
       </head>
       <body>
         <Outlet />
